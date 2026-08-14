@@ -1,0 +1,7 @@
+{
+  "name": "ContentCraft AI",
+  "description": "AI Social Media Content & Script Generator for Facebook, TikTok, YouTube Shorts, and Instagram with hooks, scripts, captions, titles, and hashtags.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
